@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Penny_assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Penny Down instance 10000" x="0" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10001" x="0" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10002" x="401" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10003" x="401" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10004" x="802" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10005" x="802" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10006" x="1203" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10007" x="1203" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10008" x="1203" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10009" x="1203" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10010" x="1203" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Down instance 10011" x="1203" y="0" width="386" height="446"/>
+	<SubTexture name="Penny Idle instance 10000" x="1604" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10001" x="1604" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10002" x="2003" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10003" x="2003" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10004" x="2402" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10005" x="2801" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10006" x="3200" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10007" x="3200" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10008" x="3599" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10009" x="3599" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Idle instance 10010" x="3599" y="0" width="384" height="631"/>
+	<SubTexture name="Penny Left instance 10000" x="0" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10001" x="0" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10002" x="457" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10003" x="457" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10004" x="914" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10005" x="914" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10006" x="1371" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10007" x="1828" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10008" x="1828" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10009" x="914" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10010" x="914" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Left instance 10011" x="914" y="646" width="442" height="606"/>
+	<SubTexture name="Penny Right instance 10000" x="2285" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10001" x="2285" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10002" x="2739" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10003" x="2739" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10004" x="3193" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10005" x="3193" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10006" x="3647" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10007" x="3193" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Right instance 10008" x="3193" y="646" width="439" height="612"/>
+	<SubTexture name="Penny Up instance 10000" x="0" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10001" x="405" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10002" x="810" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10003" x="1215" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10004" x="1620" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10005" x="2025" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10006" x="2430" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10007" x="2835" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10008" x="1620" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10009" x="2025" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10010" x="2430" y="1273" width="390" height="732"/>
+	<SubTexture name="Penny Up instance 10011" x="2835" y="1273" width="390" height="732"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tigryOL.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tigry Idle0000" x="0" y="0" width="263" height="539" frameX="0" frameY="-15" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0001" x="0" y="539" width="254" height="541" frameX="-6" frameY="-13" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0002" x="0" y="1080" width="246" height="544" frameX="-11" frameY="-10" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0003" x="263" y="0" width="238" height="546" frameX="-16" frameY="-7" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0004" x="254" y="546" width="231" height="549" frameX="-21" frameY="-4" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0005" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0006" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0007" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0008" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0009" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0010" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0011" x="246" y="1095" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+</TextureAtlas>

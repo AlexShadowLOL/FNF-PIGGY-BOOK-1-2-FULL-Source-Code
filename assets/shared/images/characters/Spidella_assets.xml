@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spidella_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spidella Down0000" x="0" y="3081" width="400" height="540" frameX="0" frameY="-18" frameWidth="400" frameHeight="558"/>
+	<SubTexture name="Spidella Down0001" x="1596" y="3080" width="400" height="543" frameX="0" frameY="-15" frameWidth="400" frameHeight="558"/>
+	<SubTexture name="Spidella Down0002" x="2004" y="3078" width="400" height="546" frameX="0" frameY="-12" frameWidth="400" frameHeight="558"/>
+	<SubTexture name="Spidella Down0003" x="2406" y="3076" width="400" height="549" frameX="0" frameY="-9" frameWidth="400" frameHeight="558"/>
+	<SubTexture name="Spidella Down0004" x="1196" y="3054" width="400" height="552" frameX="0" frameY="-6" frameWidth="400" frameHeight="558"/>
+	<SubTexture name="Spidella Down0005" x="3602" y="3046" width="400" height="555" frameX="0" frameY="-3" frameWidth="400" frameHeight="558"/>
+	<SubTexture name="Spidella Down0006" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Down0007" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Down0008" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Down0009" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Down0010" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Down0011" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Down0012" x="3602" y="2488" width="400" height="558"/>
+	<SubTexture name="Spidella Idle0000" x="1202" y="1820" width="403" height="617" frameX="-9" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0001" x="0" y="1847" width="402" height="617" frameX="-9" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0002" x="402" y="1847" width="402" height="617" frameX="-8" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0003" x="1605" y="1847" width="402" height="617" frameX="-7" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0004" x="1202" y="2437" width="401" height="617" frameX="-6" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0005" x="3083" y="1866" width="401" height="618" frameX="-5" frameY="-8" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0006" x="400" y="1226" width="401" height="621" frameX="-4" frameY="-5" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0007" x="2833" y="1221" width="401" height="624" frameX="-3" frameY="-2" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0008" x="0" y="1207" width="400" height="626" frameX="-2" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0009" x="3234" y="1242" width="399" height="624" frameX="-2" frameY="-2" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0010" x="401" y="2464" width="398" height="621" frameX="-1" frameY="-5" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0011" x="3206" y="2488" width="396" height="618" frameX="0" frameY="-8" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0012" x="2810" y="2484" width="396" height="619" frameX="-1" frameY="-7" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0013" x="799" y="2470" width="397" height="620" frameX="-1" frameY="-6" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0014" x="3484" y="1866" width="398" height="622" frameX="-1" frameY="-4" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0015" x="804" y="1847" width="398" height="623" frameX="-2" frameY="-3" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0016" x="3633" y="1242" width="399" height="624" frameX="-2" frameY="-2" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0017" x="2279" y="1222" width="400" height="625" frameX="-2" frameY="-1" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0018" x="0" y="1207" width="400" height="626" frameX="-2" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0019" x="1767" y="1225" width="401" height="622" frameX="-3" frameY="-4" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0020" x="2409" y="2459" width="401" height="617" frameX="-5" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0021" x="0" y="2464" width="401" height="617" frameX="-7" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0022" x="2007" y="1847" width="402" height="617" frameX="-8" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Idle0023" x="1202" y="1820" width="403" height="617" frameX="-9" frameY="-9" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Left0000" x="2924" y="0" width="495" height="572" frameX="0" frameY="-23" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0001" x="2431" y="0" width="493" height="576" frameX="-2" frameY="-19" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0002" x="1452" y="0" width="491" height="580" frameX="-4" frameY="-15" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0003" x="1943" y="0" width="488" height="583" frameX="-7" frameY="-12" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0004" x="966" y="0" width="486" height="587" frameX="-9" frameY="-8" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0005" x="482" y="0" width="484" height="591" frameX="-11" frameY="-4" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0006" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0007" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0008" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0009" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0010" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0011" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Left0012" x="0" y="0" width="482" height="595" frameX="-13" frameY="0" frameWidth="495" frameHeight="595"/>
+	<SubTexture name="Spidella Right0000" x="3419" y="0" width="433" height="610" frameX="-1" frameY="-16" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0001" x="1452" y="580" width="425" height="611" frameX="-1" frameY="-15" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0002" x="0" y="595" width="415" height="612" frameX="-1" frameY="-14" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0003" x="2679" y="1845" width="404" height="614" frameX="-1" frameY="-12" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0004" x="2004" y="2464" width="402" height="614" frameX="0" frameY="-12" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0005" x="1603" y="2464" width="401" height="616" frameX="0" frameY="-10" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0006" x="801" y="1226" width="401" height="621" frameX="0" frameY="-5" frameWidth="434" frameHeight="626"/>
+	<SubTexture name="Spidella Right0007" x="0" y="1207" width="400" height="626" frameX="0" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Right0008" x="0" y="1207" width="400" height="626" frameX="0" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Right0009" x="0" y="1207" width="400" height="626" frameX="0" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Right0010" x="0" y="1207" width="400" height="626" frameX="0" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Right0011" x="0" y="1207" width="400" height="626" frameX="0" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Right0012" x="0" y="1207" width="400" height="626" frameX="0" frameY="0" frameWidth="412" frameHeight="626"/>
+	<SubTexture name="Spidella Up0000" x="2924" y="572" width="402" height="649"/>
+	<SubTexture name="Spidella Up0001" x="2431" y="576" width="402" height="646" frameX="0" frameY="-3" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0002" x="1877" y="583" width="402" height="642" frameX="0" frameY="-6" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0003" x="966" y="587" width="401" height="639" frameX="0" frameY="-9" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0004" x="482" y="591" width="401" height="635" frameX="0" frameY="-12" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0005" x="3326" y="610" width="401" height="632" frameX="0" frameY="-15" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0006" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0007" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0008" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0009" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0010" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0011" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+	<SubTexture name="Spidella Up0012" x="1367" y="1191" width="400" height="629" frameX="0" frameY="-17" frameWidth="402" frameHeight="649"/>
+</TextureAtlas>

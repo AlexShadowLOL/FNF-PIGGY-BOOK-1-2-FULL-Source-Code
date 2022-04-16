@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Raze_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Raze Down0000" x="0" y="0" width="350" height="451" frameX="0" frameY="-12" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0001" x="350" y="0" width="347" height="453" frameX="-1" frameY="-10" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0002" x="697" y="0" width="345" height="456" frameX="-2" frameY="-7" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0003" x="1042" y="0" width="343" height="457" frameX="-3" frameY="-5" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0004" x="1385" y="0" width="341" height="461" frameX="-4" frameY="-2" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0005" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0006" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0007" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0008" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0009" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0010" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Down0011" x="0" y="461" width="339" height="463" frameX="-5" frameY="0" frameWidth="350" frameHeight="463"/>
+	<SubTexture name="Raze Idle0000" x="339" y="461" width="309" height="529" frameX="0" frameY="-5" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0001" x="648" y="461" width="303" height="530" frameX="-3" frameY="-4" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0002" x="951" y="461" width="297" height="531" frameX="-6" frameY="-3" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0003" x="1248" y="461" width="292" height="532" frameX="-9" frameY="-2" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0004" x="1540" y="461" width="287" height="533" frameX="-12" frameY="-1" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0005" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0006" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0007" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0008" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0009" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0010" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Idle0011" x="0" y="994" width="282" height="534" frameX="-15" frameY="0" frameWidth="309" frameHeight="534"/>
+	<SubTexture name="Raze Left0000" x="282" y="994" width="323" height="517" frameX="0" frameY="-10" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0001" x="605" y="994" width="315" height="520" frameX="-7" frameY="-8" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0002" x="920" y="994" width="308" height="524" frameX="-13" frameY="-6" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0003" x="1228" y="994" width="302" height="528" frameX="-19" frameY="-3" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0004" x="1530" y="994" width="299" height="530" frameX="-26" frameY="-2" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0005" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0006" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0007" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0008" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0009" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0010" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Left0011" x="0" y="1528" width="299" height="533" frameX="-32" frameY="0" frameWidth="331" frameHeight="533"/>
+	<SubTexture name="Raze Right0000" x="299" y="1528" width="324" height="527"/>
+	<SubTexture name="Raze Right0001" x="623" y="1528" width="321" height="527" frameX="-2" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0002" x="944" y="1528" width="317" height="527" frameX="-4" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0003" x="1261" y="1528" width="313" height="527" frameX="-6" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0004" x="1574" y="1528" width="309" height="527" frameX="-8" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0005" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0006" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0007" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0008" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0009" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0010" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Right0011" x="0" y="2061" width="306" height="527" frameX="-10" frameY="0" frameWidth="324" frameHeight="527"/>
+	<SubTexture name="Raze Up0000" x="306" y="2061" width="321" height="551" frameX="0" frameY="0" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0001" x="627" y="2061" width="321" height="551" frameX="-1" frameY="0" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0002" x="948" y="2061" width="321" height="550" frameX="-2" frameY="-1" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0003" x="1269" y="2061" width="322" height="549" frameX="-3" frameY="-2" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0004" x="1591" y="2061" width="322" height="549" frameX="-4" frameY="-2" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0005" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0006" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0007" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0008" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0009" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0010" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+	<SubTexture name="Raze Up0011" x="0" y="2612" width="322" height="548" frameX="-5" frameY="-3" frameWidth="327" frameHeight="551"/>
+</TextureAtlas>

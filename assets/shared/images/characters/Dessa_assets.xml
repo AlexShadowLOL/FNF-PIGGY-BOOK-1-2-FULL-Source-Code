@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dessa_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dessa Down0000" x="0" y="0" width="328" height="440" frameX="0" frameY="-9" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0001" x="328" y="0" width="327" height="442" frameX="-1" frameY="-7" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0002" x="655" y="0" width="326" height="444" frameX="-3" frameY="-5" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0003" x="981" y="0" width="325" height="446" frameX="-4" frameY="-3" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0004" x="1306" y="0" width="325" height="447" frameX="-5" frameY="-2" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0005" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0006" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0007" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0008" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0009" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0010" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Down0011" x="1631" y="0" width="324" height="449" frameX="-6" frameY="0" frameWidth="330" frameHeight="449"/>
+	<SubTexture name="Dessa Idle0000" x="0" y="449" width="341" height="610"/>
+	<SubTexture name="Dessa Idle0001" x="341" y="449" width="333" height="605" frameX="-1" frameY="-5" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0002" x="674" y="449" width="329" height="604" frameX="-4" frameY="-6" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0003" x="1003" y="449" width="326" height="606" frameX="-7" frameY="-4" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0004" x="1329" y="449" width="313" height="601" frameX="-20" frameY="-9" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0005" x="1642" y="449" width="316" height="598" frameX="-17" frameY="-12" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0006" x="1003" y="449" width="326" height="606" frameX="-7" frameY="-4" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0007" x="674" y="449" width="329" height="604" frameX="-4" frameY="-6" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0008" x="341" y="449" width="333" height="605" frameX="-1" frameY="-5" frameWidth="341" frameHeight="610"/>
+	<SubTexture name="Dessa Idle0009" x="0" y="449" width="341" height="610"/>
+	<SubTexture name="Dessa Idle0010" x="0" y="449" width="341" height="610"/>
+	<SubTexture name="Dessa Idle0011" x="0" y="449" width="341" height="610"/>
+	<SubTexture name="Dessa Left0000" x="0" y="1059" width="498" height="543" frameX="0" frameY="-20" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0001" x="498" y="1059" width="491" height="547" frameX="-7" frameY="-16" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0002" x="989" y="1059" width="484" height="551" frameX="-13" frameY="-12" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0003" x="1473" y="1059" width="477" height="555" frameX="-20" frameY="-8" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0004" x="0" y="1614" width="471" height="559" frameX="-26" frameY="-4" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0005" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0006" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0007" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0008" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0009" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0010" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Left0011" x="471" y="1614" width="464" height="563" frameX="-32" frameY="0" frameWidth="498" frameHeight="563"/>
+	<SubTexture name="Dessa Right0000" x="935" y="1614" width="525" height="566" frameX="0" frameY="-4" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0001" x="1460" y="1614" width="519" height="567" frameX="-4" frameY="-3" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0002" x="0" y="2181" width="515" height="567" frameX="-6" frameY="-2" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0003" x="515" y="2181" width="509" height="567" frameX="-10" frameY="-1" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0004" x="1024" y="2181" width="504" height="568" frameX="-13" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0005" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0006" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0007" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0008" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0009" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0010" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Right0011" x="1528" y="2181" width="501" height="567" frameX="-15" frameY="0" frameWidth="525" frameHeight="570"/>
+	<SubTexture name="Dessa Up0000" x="0" y="2749" width="251" height="693" frameX="0" frameY="0" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0001" x="251" y="2749" width="247" height="691" frameX="-3" frameY="-2" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0002" x="498" y="2749" width="245" height="689" frameX="-5" frameY="-4" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0003" x="743" y="2749" width="242" height="688" frameX="-8" frameY="-6" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0004" x="985" y="2749" width="239" height="686" frameX="-11" frameY="-8" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0005" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0006" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0007" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0008" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0009" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0010" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+	<SubTexture name="Dessa Up0011" x="1224" y="2749" width="237" height="685" frameX="-14" frameY="-9" frameWidth="251" frameHeight="694"/>
+</TextureAtlas>

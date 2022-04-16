@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Delta_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Delta Down0000" x="586" y="2394" width="291" height="479" frameX="0" frameY="-19" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0001" x="1598" y="1762" width="284" height="479" frameX="-5" frameY="-16" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0002" x="1598" y="2241" width="280" height="480" frameX="-9" frameY="-12" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0003" x="1161" y="2338" width="276" height="481" frameX="-13" frameY="-8" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0004" x="1437" y="2721" width="271" height="482" frameX="-18" frameY="-4" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0005" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0006" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0007" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0008" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0009" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0010" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Down0011" x="1161" y="2819" width="268" height="484" frameX="-21" frameY="0" frameWidth="291" frameHeight="498"/>
+	<SubTexture name="Delta Idle0000" x="919" y="2279" width="242" height="589" frameX="-31" frameY="-17" frameWidth="273" frameHeight="606"/>
+	<SubTexture name="Delta Idle0001" x="1350" y="1745" width="248" height="593" frameX="-25" frameY="-13" frameWidth="273" frameHeight="606"/>
+	<SubTexture name="Delta Idle0002" x="0" y="2365" width="255" height="596" frameX="-18" frameY="-10" frameWidth="273" frameHeight="606"/>
+	<SubTexture name="Delta Idle0003" x="325" y="2327" width="261" height="600" frameX="-12" frameY="-6" frameWidth="273" frameHeight="606"/>
+	<SubTexture name="Delta Idle0004" x="652" y="1791" width="267" height="603" frameX="-6" frameY="-3" frameWidth="273" frameHeight="606"/>
+	<SubTexture name="Delta Idle0005" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Idle0006" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Idle0007" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Idle0008" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Idle0009" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Idle0010" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Idle0011" x="1767" y="1156" width="273" height="606"/>
+	<SubTexture name="Delta Left0000" x="1106" y="0" width="399" height="547" frameX="0" frameY="-25" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0001" x="1106" y="547" width="386" height="551" frameX="-7" frameY="-20" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0002" x="1492" y="600" width="373" height="556" frameX="-13" frameY="-15" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0003" x="374" y="606" width="361" height="560" frameX="-19" frameY="-10" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0004" x="0" y="610" width="352" height="565" frameX="-21" frameY="-5" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0005" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0006" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0007" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0008" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0009" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0010" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Left0011" x="352" y="1166" width="343" height="570" frameX="-23" frameY="0" frameWidth="399" frameHeight="572"/>
+	<SubTexture name="Delta Right0000" x="1022" y="1692" width="328" height="587" frameX="-18" frameY="-9" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0001" x="1440" y="1156" width="327" height="589" frameX="-15" frameY="-7" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0002" x="325" y="1736" width="327" height="591" frameX="-11" frameY="-5" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0003" x="695" y="1199" width="327" height="592" frameX="-7" frameY="-4" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0004" x="0" y="1771" width="325" height="594" frameX="-4" frameY="-2" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0005" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0006" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0007" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0008" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0009" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0010" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Right0011" x="0" y="1175" width="325" height="596" frameX="0" frameY="0" frameWidth="346" frameHeight="596"/>
+	<SubTexture name="Delta Up0000" x="0" y="0" width="374" height="610" frameX="0" frameY="0" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0001" x="374" y="0" width="369" height="606" frameX="0" frameY="-5" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0002" x="743" y="0" width="363" height="602" frameX="0" frameY="-9" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0003" x="1505" y="0" width="357" height="600" frameX="0" frameY="-12" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0004" x="743" y="602" width="351" height="597" frameX="0" frameY="-16" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0005" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0006" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0007" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0008" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0009" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0010" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+	<SubTexture name="Delta Up0011" x="1094" y="1098" width="346" height="594" frameX="0" frameY="-20" frameWidth="374" frameHeight="614"/>
+</TextureAtlas>

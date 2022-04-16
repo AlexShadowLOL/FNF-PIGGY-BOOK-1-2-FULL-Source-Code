@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zizzy_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Missing Deez Nuts0000" x="395" y="653" width="397" height="656" frameX="-7" frameY="0" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0001" x="1585" y="668" width="397" height="655" frameX="-3" frameY="0" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0002" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0003" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0004" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0005" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0006" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0007" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0008" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0009" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0010" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Missing Deez Nuts0011" x="1181" y="1972" width="396" height="653" frameX="0" frameY="-1" frameWidth="404" frameHeight="656"/>
+	<SubTexture name="Zizzy Down0000" x="1188" y="3273" width="394" height="636" frameX="-20" frameY="-13" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0001" x="396" y="3273" width="394" height="642" frameX="-10" frameY="-6" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0002" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0003" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0004" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0005" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0006" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0007" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0008" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0009" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0010" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Down0011" x="1575" y="2626" width="395" height="647" frameX="0" frameY="0" frameWidth="414" frameHeight="649"/>
+	<SubTexture name="Zizzy Ending0000" x="389" y="1309" width="396" height="653" frameX="0" frameY="0" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Ending0001" x="1188" y="1319" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0002" x="785" y="1321" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0003" x="1584" y="1323" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0004" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0005" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0006" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0007" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0008" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0009" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0010" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Ending0011" x="0" y="1962" width="396" height="653"/>
+	<SubTexture name="Zizzy Idle0000" x="792" y="3272" width="396" height="644" frameX="0" frameY="-9" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0001" x="0" y="3264" width="396" height="645" frameX="-2" frameY="-8" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0002" x="1179" y="2625" width="396" height="647" frameX="-3" frameY="-6" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0003" x="396" y="2625" width="396" height="648" frameX="-4" frameY="-5" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0004" x="1577" y="1976" width="396" height="650" frameX="-6" frameY="-3" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0005" x="396" y="1974" width="396" height="651" frameX="-7" frameY="-2" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0006" x="389" y="1309" width="396" height="653" frameX="-8" frameY="0" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0007" x="389" y="1309" width="396" height="653" frameX="-8" frameY="0" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0008" x="389" y="1309" width="396" height="653" frameX="-8" frameY="0" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0009" x="389" y="1309" width="396" height="653" frameX="-8" frameY="0" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0010" x="0" y="2615" width="396" height="649" frameX="-5" frameY="-4" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Idle0011" x="0" y="3264" width="396" height="645" frameX="-2" frameY="-8" frameWidth="404" frameHeight="653"/>
+	<SubTexture name="Zizzy Left0000" x="792" y="1974" width="387" height="666" frameX="-12" frameY="-5" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0001" x="0" y="667" width="389" height="667" frameX="-6" frameY="-2" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0002" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0003" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0004" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0005" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0006" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0007" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0008" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0009" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0010" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Left0011" x="1590" y="0" width="391" height="668" frameX="0" frameY="0" frameWidth="399" frameHeight="671"/>
+	<SubTexture name="Zizzy Right0000" x="395" y="0" width="403" height="653" frameX="0" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0001" x="1188" y="664" width="397" height="655" frameX="-1" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0002" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0003" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0004" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0005" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0006" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0007" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0008" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0009" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0010" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Right0011" x="792" y="664" width="396" height="657" frameX="-2" frameY="0" frameWidth="403" frameHeight="657"/>
+	<SubTexture name="Zizzy Up0000" x="0" y="0" width="395" height="667" frameX="-15" frameY="0" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0001" x="798" y="0" width="396" height="664" frameX="-7" frameY="-3" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0002" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0003" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0004" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0005" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0006" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0007" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0008" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0009" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0010" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+	<SubTexture name="Zizzy Up0011" x="1194" y="0" width="396" height="664" frameX="0" frameY="-7" frameWidth="410" frameHeight="671"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+idle 0 0
+singUP -25 13
+singRIGHT -1 -2
+singLEFT -42 -10
+singDOWN -29 -12
+singUPmiss -11 2
+singRIGHTmiss -11 2
+singLEFTmiss -11 2
+singDOWNmiss -11 2
+ending -11 1

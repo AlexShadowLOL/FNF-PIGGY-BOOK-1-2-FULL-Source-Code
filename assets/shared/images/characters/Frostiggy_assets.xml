@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Frostiggy_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Frostiggy Down0000" x="340" y="753" width="418" height="567" frameX="0" frameY="-19" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0001" x="340" y="753" width="418" height="567" frameX="0" frameY="-19" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0002" x="1060" y="0" width="406" height="574" frameX="-8" frameY="-12" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0003" x="1060" y="0" width="406" height="574" frameX="-8" frameY="-12" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0004" x="1014" y="3314" width="389" height="583" frameX="-19" frameY="-3" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0005" x="1014" y="3314" width="389" height="583" frameX="-19" frameY="-3" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0006" x="1032" y="1336" width="383" height="586" frameX="-23" frameY="0" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0007" x="1032" y="1336" width="383" height="586" frameX="-23" frameY="0" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0008" x="1032" y="1336" width="383" height="586" frameX="-23" frameY="0" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0009" x="1032" y="1336" width="383" height="586" frameX="-23" frameY="0" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0010" x="1032" y="1336" width="383" height="586" frameX="-23" frameY="0" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Down0011" x="1032" y="1336" width="383" height="586" frameX="-23" frameY="0" frameWidth="418" frameHeight="586"/>
+	<SubTexture name="Frostiggy Idle0000" x="348" y="0" width="348" height="680" frameX="0" frameY="-20" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0001" x="348" y="0" width="348" height="680" frameX="0" frameY="-20" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0002" x="758" y="649" width="341" height="687" frameX="-4" frameY="-13" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0003" x="758" y="649" width="341" height="687" frameX="-4" frameY="-13" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0004" x="1020" y="2617" width="331" height="697" frameX="-10" frameY="-3" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0005" x="1020" y="2617" width="331" height="697" frameX="-10" frameY="-3" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0006" x="686" y="3308" width="328" height="700" frameX="-11" frameY="0" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0007" x="686" y="3308" width="328" height="700" frameX="-11" frameY="0" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0008" x="686" y="3308" width="328" height="700" frameX="-11" frameY="0" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0009" x="686" y="3308" width="328" height="700" frameX="-11" frameY="0" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0010" x="686" y="3308" width="328" height="700" frameX="-11" frameY="0" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Idle0011" x="686" y="3308" width="328" height="700" frameX="-11" frameY="0" frameWidth="348" frameHeight="700"/>
+	<SubTexture name="Frostiggy Left0000" x="323" y="2253" width="346" height="693"/>
+	<SubTexture name="Frostiggy Left0001" x="323" y="2253" width="346" height="693"/>
+	<SubTexture name="Frostiggy Left0002" x="686" y="2617" width="334" height="691" frameX="-7" frameY="-2" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0003" x="686" y="2617" width="334" height="691" frameX="-7" frameY="-2" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0004" x="0" y="3002" width="317" height="688" frameX="-18" frameY="-5" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0005" x="0" y="3002" width="317" height="688" frameX="-18" frameY="-5" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0006" x="1099" y="574" width="313" height="687" frameX="-20" frameY="-6" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0007" x="1099" y="574" width="313" height="687" frameX="-20" frameY="-6" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0008" x="1099" y="574" width="313" height="687" frameX="-20" frameY="-6" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0009" x="1099" y="574" width="313" height="687" frameX="-20" frameY="-6" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0010" x="1099" y="574" width="313" height="687" frameX="-20" frameY="-6" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Left0011" x="1099" y="574" width="313" height="687" frameX="-20" frameY="-6" frameWidth="346" frameHeight="693"/>
+	<SubTexture name="Frostiggy Right0000" x="696" y="0" width="364" height="649" frameX="-4" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0001" x="696" y="0" width="364" height="649" frameX="-4" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0002" x="340" y="1320" width="364" height="649" frameX="-3" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0003" x="340" y="1320" width="364" height="649" frameX="-3" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0004" x="323" y="2946" width="363" height="648" frameX="-1" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0005" x="323" y="2946" width="363" height="648" frameX="-1" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0006" x="669" y="1969" width="363" height="648" frameX="0" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0007" x="669" y="1969" width="363" height="648" frameX="0" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0008" x="669" y="1969" width="363" height="648" frameX="0" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0009" x="669" y="1969" width="363" height="648" frameX="0" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0010" x="669" y="1969" width="363" height="648" frameX="0" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Right0011" x="669" y="1969" width="363" height="648" frameX="0" frameY="0" frameWidth="368" frameHeight="649"/>
+	<SubTexture name="Frostiggy Up0000" x="0" y="0" width="348" height="753"/>
+	<SubTexture name="Frostiggy Up0001" x="0" y="0" width="348" height="753"/>
+	<SubTexture name="Frostiggy Up0002" x="0" y="753" width="340" height="751" frameX="-4" frameY="-2" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0003" x="0" y="753" width="340" height="751" frameX="-4" frameY="-2" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0004" x="0" y="1504" width="328" height="749" frameX="-9" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0005" x="0" y="1504" width="328" height="749" frameX="-9" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0006" x="0" y="2253" width="323" height="749" frameX="-12" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0007" x="0" y="2253" width="323" height="749" frameX="-12" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0008" x="0" y="2253" width="323" height="749" frameX="-12" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0009" x="0" y="2253" width="323" height="749" frameX="-12" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0010" x="0" y="2253" width="323" height="749" frameX="-12" frameY="-4" frameWidth="348" frameHeight="753"/>
+	<SubTexture name="Frostiggy Up0011" x="0" y="2253" width="323" height="749" frameX="-12" frameY="-4" frameWidth="348" frameHeight="753"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zeeSewers.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zee bop0000" x="0" y="0" width="211" height="351" frameX="0" frameY="-9" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0001" x="211" y="0" width="210" height="352" frameX="0" frameY="-8" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0002" x="421" y="0" width="209" height="354" frameX="0" frameY="-6" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0003" x="630" y="0" width="208" height="356" frameX="0" frameY="-4" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0004" x="0" y="356" width="207" height="358" frameX="0" frameY="-2" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0005" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0006" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0007" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0008" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0009" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0010" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+	<SubTexture name="zee bop0011" x="207" y="356" width="206" height="360" frameX="0" frameY="0" frameWidth="211" frameHeight="360"/>
+</TextureAtlas>

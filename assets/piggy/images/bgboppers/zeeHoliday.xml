@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zeeHoliday.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zeeholiday bop0000" x="0" y="0" width="170" height="382" frameX="0" frameY="-6" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0001" x="0" y="382" width="169" height="383" frameX="-1" frameY="-5" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0002" x="170" y="0" width="167" height="385" frameX="-3" frameY="-3" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0003" x="337" y="0" width="166" height="386" frameX="-4" frameY="-2" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0004" x="169" y="385" width="164" height="387" frameX="-6" frameY="-1" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0005" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0006" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0007" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0008" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0009" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0010" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+	<SubTexture name="zeeholiday bop0011" x="333" y="386" width="163" height="388" frameX="-7" frameY="0" frameWidth="170" frameHeight="388"/>
+</TextureAtlas>

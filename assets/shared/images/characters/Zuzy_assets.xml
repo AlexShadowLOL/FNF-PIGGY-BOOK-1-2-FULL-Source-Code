@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zuzy_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zuzy Down0000" x="797" y="0" width="423" height="460" frameX="0" frameY="-5" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0001" x="1220" y="0" width="416" height="462" frameX="-4" frameY="-3" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0002" x="759" y="488" width="406" height="465" frameX="-10" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0003" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0004" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0005" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0006" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0007" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0008" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0009" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0010" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Down0011" x="1541" y="490" width="402" height="465" frameX="-12" frameY="0" frameWidth="423" frameHeight="465"/>
+	<SubTexture name="Zuzy Idle0000" x="398" y="0" width="399" height="488" frameX="0" frameY="-1" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0001" x="0" y="1501" width="392" height="488" frameX="-4" frameY="-1" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0002" x="380" y="997" width="383" height="488" frameX="-10" frameY="-1" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0003" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0004" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0005" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0006" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0007" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0008" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0009" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0010" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Idle0011" x="392" y="1485" width="380" height="489" frameX="-11" frameY="0" frameWidth="399" frameHeight="489"/>
+	<SubTexture name="Zuzy Left0000" x="0" y="0" width="398" height="491"/>
+	<SubTexture name="Zuzy Left0001" x="1636" y="0" width="390" height="490" frameX="-5" frameY="-1" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0002" x="1524" y="963" width="378" height="489" frameX="-12" frameY="-2" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0003" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0004" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0005" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0006" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0007" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0008" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0009" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0010" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Left0011" x="1536" y="1452" width="373" height="488" frameX="-15" frameY="-3" frameWidth="398" frameHeight="491"/>
+	<SubTexture name="Zuzy Right0000" x="1154" y="1452" width="382" height="477" frameX="-20" frameY="-12" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0001" x="772" y="1450" width="382" height="481" frameX="-13" frameY="-8" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0002" x="1143" y="963" width="381" height="487" frameX="-3" frameY="-2" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0003" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0004" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0005" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0006" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0007" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0008" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0009" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0010" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Right0011" x="763" y="953" width="380" height="489" frameX="0" frameY="0" frameWidth="402" frameHeight="489"/>
+	<SubTexture name="Zuzy Up0000" x="0" y="491" width="382" height="506" frameX="-7" frameY="0" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0001" x="0" y="997" width="380" height="504" frameX="-5" frameY="-2" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0002" x="382" y="491" width="377" height="502" frameX="-1" frameY="-4" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0003" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0004" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0005" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0006" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0007" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0008" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0009" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0010" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+	<SubTexture name="Zuzy Up0011" x="1165" y="462" width="376" height="501" frameX="0" frameY="-5" frameWidth="389" frameHeight="506"/>
+</TextureAtlas>

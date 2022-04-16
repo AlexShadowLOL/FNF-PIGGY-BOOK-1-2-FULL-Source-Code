@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="giraffyHoliday.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="giraffyholiday bop0000" x="186" y="0" width="176" height="530" frameX="-8" frameY="-15" frameWidth="186" frameHeight="545"/>
+	<SubTexture name="giraffyholiday bop0001" x="184" y="545" width="176" height="533" frameX="-9" frameY="-12" frameWidth="186" frameHeight="545"/>
+	<SubTexture name="giraffyholiday bop0002" x="180" y="1088" width="178" height="537" frameX="-7" frameY="-8" frameWidth="186" frameHeight="545"/>
+	<SubTexture name="giraffyholiday bop0003" x="0" y="1088" width="180" height="540" frameX="-5" frameY="-5" frameWidth="186" frameHeight="545"/>
+	<SubTexture name="giraffyholiday bop0004" x="0" y="545" width="184" height="543" frameX="-2" frameY="-2" frameWidth="186" frameHeight="545"/>
+	<SubTexture name="giraffyholiday bop0005" x="0" y="0" width="186" height="545"/>
+	<SubTexture name="giraffyholiday bop0006" x="0" y="0" width="186" height="545"/>
+	<SubTexture name="giraffyholiday bop0007" x="0" y="0" width="186" height="545"/>
+	<SubTexture name="giraffyholiday bop0008" x="0" y="0" width="186" height="545"/>
+	<SubTexture name="giraffyholiday bop0009" x="0" y="0" width="186" height="545"/>
+	<SubTexture name="giraffyholiday bop0010" x="0" y="0" width="186" height="545"/>
+	<SubTexture name="giraffyholiday bop0011" x="0" y="0" width="186" height="545"/>
+</TextureAtlas>

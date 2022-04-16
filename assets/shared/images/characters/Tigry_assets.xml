@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tigry_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tigry Down0000" x="0" y="0" width="199" height="530" frameX="-2" frameY="-7" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0001" x="199" y="0" width="201" height="530" frameX="-2" frameY="-6" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0002" x="400" y="0" width="205" height="531" frameX="-1" frameY="-5" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0003" x="605" y="0" width="208" height="533" frameX="-1" frameY="-3" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0004" x="813" y="0" width="212" height="534" frameX="0" frameY="-2" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0005" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0006" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0007" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0008" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0009" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0010" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Down0011" x="1025" y="0" width="215" height="535" frameX="0" frameY="0" frameWidth="215" frameHeight="537"/>
+	<SubTexture name="Tigry Idle0000" x="1240" y="0" width="263" height="539" frameX="0" frameY="-15" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0001" x="1503" y="0" width="254" height="541" frameX="-6" frameY="-13" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0002" x="1757" y="0" width="246" height="544" frameX="-11" frameY="-10" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0003" x="0" y="544" width="238" height="546" frameX="-16" frameY="-7" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0004" x="238" y="544" width="231" height="549" frameX="-21" frameY="-4" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0005" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0006" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0007" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0008" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0009" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0010" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Idle0011" x="469" y="544" width="226" height="553" frameX="-23" frameY="0" frameWidth="263" frameHeight="554"/>
+	<SubTexture name="Tigry Left0000" x="695" y="544" width="204" height="527" frameX="0" frameY="-6" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0001" x="899" y="544" width="207" height="528" frameX="-1" frameY="-5" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0002" x="1106" y="544" width="210" height="529" frameX="-2" frameY="-4" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0003" x="1316" y="544" width="213" height="531" frameX="-3" frameY="-2" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0004" x="1529" y="544" width="215" height="532" frameX="-4" frameY="-1" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0005" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0006" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0007" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0008" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0009" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0010" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Left0011" x="1744" y="544" width="218" height="533" frameX="-5" frameY="0" frameWidth="223" frameHeight="533"/>
+	<SubTexture name="Tigry Right0000" x="0" y="1097" width="220" height="537" frameX="0" frameY="-2" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0001" x="220" y="1097" width="218" height="537" frameX="0" frameY="-2" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0002" x="438" y="1097" width="216" height="538" frameX="-1" frameY="-1" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0003" x="654" y="1097" width="215" height="538" frameX="-1" frameY="-1" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0004" x="869" y="1097" width="212" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0005" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0006" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0007" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0008" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0009" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0010" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Right0011" x="1081" y="1097" width="211" height="539" frameX="-2" frameY="0" frameWidth="220" frameHeight="539"/>
+	<SubTexture name="Tigry Up0000" x="1292" y="1097" width="204" height="559" frameX="0" frameY="0" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0001" x="1496" y="1097" width="204" height="559" frameX="-2" frameY="0" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0002" x="1700" y="1097" width="205" height="558" frameX="-3" frameY="-1" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0003" x="0" y="1656" width="205" height="558" frameX="-4" frameY="-1" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0004" x="205" y="1656" width="206" height="557" frameX="-5" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0005" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0006" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0007" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0008" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0009" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0010" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+	<SubTexture name="Tigry Up0011" x="411" y="1656" width="207" height="557" frameX="-6" frameY="-2" frameWidth="213" frameHeight="559"/>
+</TextureAtlas>

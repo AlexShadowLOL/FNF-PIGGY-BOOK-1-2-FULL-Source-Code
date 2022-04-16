@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="robbyTemple.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="robby bop0000" x="0" y="560" width="324" height="550" frameX="0" frameY="-10" frameWidth="324" frameHeight="560"/>
+	<SubTexture name="robby bop0001" x="324" y="555" width="324" height="551" frameX="0" frameY="-9" frameWidth="324" frameHeight="560"/>
+	<SubTexture name="robby bop0002" x="648" y="554" width="324" height="553" frameX="0" frameY="-7" frameWidth="324" frameHeight="560"/>
+	<SubTexture name="robby bop0003" x="648" y="0" width="324" height="554" frameX="0" frameY="-6" frameWidth="324" frameHeight="560"/>
+	<SubTexture name="robby bop0004" x="324" y="0" width="324" height="555" frameX="0" frameY="-5" frameWidth="324" frameHeight="560"/>
+	<SubTexture name="robby bop0005" x="0" y="0" width="324" height="560"/>
+	<SubTexture name="robby bop0006" x="0" y="0" width="324" height="560"/>
+	<SubTexture name="robby bop0007" x="0" y="0" width="324" height="560"/>
+	<SubTexture name="robby bop0008" x="0" y="0" width="324" height="560"/>
+	<SubTexture name="robby bop0009" x="0" y="0" width="324" height="560"/>
+	<SubTexture name="robby bop0010" x="0" y="0" width="324" height="560"/>
+	<SubTexture name="robby bop0011" x="0" y="0" width="324" height="560"/>
+</TextureAtlas>

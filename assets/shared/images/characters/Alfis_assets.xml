@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alfis_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alfis Down0000" x="0" y="0" width="244" height="460" frameX="0" frameY="-8" frameWidth="244" frameHeight="468"/>
+	<SubTexture name="Alfis Down0001" x="244" y="0" width="244" height="463" frameX="0" frameY="-5" frameWidth="244" frameHeight="468"/>
+	<SubTexture name="Alfis Down0002" x="488" y="0" width="244" height="466" frameX="0" frameY="-2" frameWidth="244" frameHeight="468"/>
+	<SubTexture name="Alfis Down0003" x="732" y="0" width="244" height="467" frameX="0" frameY="-1" frameWidth="244" frameHeight="468"/>
+	<SubTexture name="Alfis Down0004" x="976" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0005" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0006" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0007" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0008" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0009" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0010" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Down0011" x="1220" y="0" width="244" height="468"/>
+	<SubTexture name="Alfis Idle0000" x="1464" y="0" width="319" height="637" frameX="0" frameY="-16" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0001" x="0" y="637" width="312" height="640" frameX="-3" frameY="-13" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0002" x="312" y="637" width="306" height="644" frameX="-6" frameY="-9" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0003" x="618" y="637" width="299" height="647" frameX="-9" frameY="-6" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0004" x="917" y="637" width="292" height="650" frameX="-12" frameY="-3" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0005" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0006" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0007" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0008" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0009" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0010" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Idle0011" x="1209" y="637" width="285" height="653" frameX="-15" frameY="0" frameWidth="319" frameHeight="653"/>
+	<SubTexture name="Alfis Left0000" x="1494" y="637" width="326" height="478" frameX="0" frameY="-45" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0001" x="0" y="1290" width="311" height="489" frameX="-14" frameY="-33" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0002" x="311" y="1290" width="301" height="498" frameX="-28" frameY="-23" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0003" x="612" y="1290" width="291" height="506" frameX="-43" frameY="-14" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0004" x="903" y="1290" width="283" height="512" frameX="-55" frameY="-7" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0005" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0006" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0007" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0008" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0009" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0010" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Left0011" x="1186" y="1290" width="278" height="518" frameX="-65" frameY="0" frameWidth="343" frameHeight="523"/>
+	<SubTexture name="Alfis Right0000" x="1464" y="1290" width="458" height="590" frameX="0" frameY="-20" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0001" x="0" y="1880" width="451" height="594" frameX="-3" frameY="-16" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0002" x="451" y="1880" width="445" height="598" frameX="-5" frameY="-12" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0003" x="896" y="1880" width="438" height="602" frameX="-8" frameY="-8" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0004" x="1334" y="1880" width="431" height="606" frameX="-10" frameY="-4" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0005" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0006" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0007" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0008" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0009" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0010" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Right0011" x="0" y="2486" width="424" height="610" frameX="-13" frameY="0" frameWidth="458" frameHeight="610"/>
+	<SubTexture name="Alfis Up0000" x="424" y="2486" width="257" height="621"/>
+	<SubTexture name="Alfis Up0001" x="681" y="2486" width="257" height="619" frameX="0" frameY="-2" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0002" x="938" y="2486" width="257" height="617" frameX="0" frameY="-4" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0003" x="1195" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0004" x="1452" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0005" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0006" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0007" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0008" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0009" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0010" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+	<SubTexture name="Alfis Up0011" x="1709" y="2486" width="257" height="614" frameX="0" frameY="-7" frameWidth="257" frameHeight="621"/>
+</TextureAtlas>
