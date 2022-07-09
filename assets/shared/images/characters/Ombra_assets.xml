@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ombra_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ombra Down0000" x="0" y="0" width="580" height="324" frameX="0" frameY="-12" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0001" x="0" y="0" width="580" height="324" frameX="0" frameY="-12" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0002" x="580" y="0" width="567" height="323" frameX="-2" frameY="-13" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0003" x="580" y="0" width="567" height="323" frameX="-2" frameY="-13" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0004" x="1147" y="0" width="547" height="330" frameX="-5" frameY="-6" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0005" x="1147" y="0" width="547" height="330" frameX="-5" frameY="-6" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0006" x="0" y="330" width="541" height="336" frameX="-6" frameY="0" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0007" x="0" y="330" width="541" height="336" frameX="-6" frameY="0" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0008" x="0" y="330" width="541" height="336" frameX="-6" frameY="0" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0009" x="0" y="330" width="541" height="336" frameX="-6" frameY="0" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0010" x="0" y="330" width="541" height="336" frameX="-6" frameY="0" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Down0011" x="0" y="330" width="541" height="336" frameX="-6" frameY="0" frameWidth="580" frameHeight="336"/>
+	<SubTexture name="Ombra Idle0000" x="541" y="330" width="509" height="408" frameX="0" frameY="-19" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0001" x="541" y="330" width="509" height="408" frameX="0" frameY="-19" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0002" x="1050" y="330" width="495" height="403" frameX="-8" frameY="-13" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0003" x="1050" y="330" width="495" height="403" frameX="-8" frameY="-13" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0004" x="1545" y="330" width="472" height="407" frameX="-21" frameY="-4" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0005" x="1545" y="330" width="472" height="407" frameX="-21" frameY="-4" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0006" x="0" y="738" width="465" height="411" frameX="-25" frameY="0" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0007" x="0" y="738" width="465" height="411" frameX="-25" frameY="0" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0008" x="0" y="738" width="465" height="411" frameX="-25" frameY="0" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0009" x="0" y="738" width="465" height="411" frameX="-25" frameY="0" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0010" x="0" y="738" width="465" height="411" frameX="-25" frameY="0" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Idle0011" x="0" y="738" width="465" height="411" frameX="-25" frameY="0" frameWidth="509" frameHeight="427"/>
+	<SubTexture name="Ombra Left0000" x="465" y="738" width="634" height="335" frameX="0" frameY="-20" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0001" x="465" y="738" width="634" height="335" frameX="0" frameY="-20" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0002" x="1099" y="738" width="617" height="341" frameX="-15" frameY="-14" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0003" x="1099" y="738" width="617" height="341" frameX="-15" frameY="-14" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0004" x="0" y="1149" width="592" height="351" frameX="-36" frameY="-4" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0005" x="0" y="1149" width="592" height="351" frameX="-36" frameY="-4" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0006" x="592" y="1149" width="584" height="355" frameX="-43" frameY="0" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0007" x="592" y="1149" width="584" height="355" frameX="-43" frameY="0" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0008" x="592" y="1149" width="584" height="355" frameX="-43" frameY="0" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0009" x="592" y="1149" width="584" height="355" frameX="-43" frameY="0" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0010" x="592" y="1149" width="584" height="355" frameX="-43" frameY="0" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Left0011" x="592" y="1149" width="584" height="355" frameX="-43" frameY="0" frameWidth="634" frameHeight="355"/>
+	<SubTexture name="Ombra Right0000" x="1176" y="1149" width="529" height="399" frameX="0" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0001" x="1176" y="1149" width="529" height="399" frameX="0" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0002" x="0" y="1548" width="517" height="399" frameX="-4" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0003" x="0" y="1548" width="517" height="399" frameX="-4" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0004" x="517" y="1548" width="520" height="399" frameX="-9" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0005" x="517" y="1548" width="520" height="399" frameX="-9" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0006" x="1037" y="1548" width="522" height="399" frameX="-10" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0007" x="1037" y="1548" width="522" height="399" frameX="-10" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0008" x="1037" y="1548" width="522" height="399" frameX="-10" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0009" x="1037" y="1548" width="522" height="399" frameX="-10" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0010" x="1037" y="1548" width="522" height="399" frameX="-10" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Right0011" x="1037" y="1548" width="522" height="399" frameX="-10" frameY="0" frameWidth="532" frameHeight="399"/>
+	<SubTexture name="Ombra Up0000" x="0" y="1947" width="580" height="501" frameX="0" frameY="0" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0001" x="0" y="1947" width="580" height="501" frameX="0" frameY="0" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0002" x="580" y="1947" width="563" height="497" frameX="-9" frameY="-4" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0003" x="580" y="1947" width="563" height="497" frameX="-9" frameY="-4" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0004" x="1143" y="1947" width="539" height="493" frameX="-22" frameY="-9" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0005" x="1143" y="1947" width="539" height="493" frameX="-22" frameY="-9" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0006" x="0" y="2448" width="531" height="492" frameX="-26" frameY="-11" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0007" x="0" y="2448" width="531" height="492" frameX="-26" frameY="-11" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0008" x="0" y="2448" width="531" height="492" frameX="-26" frameY="-11" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0009" x="0" y="2448" width="531" height="492" frameX="-26" frameY="-11" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0010" x="0" y="2448" width="531" height="492" frameX="-26" frameY="-11" frameWidth="580" frameHeight="503"/>
+	<SubTexture name="Ombra Up0011" x="0" y="2448" width="531" height="492" frameX="-26" frameY="-11" frameWidth="580" frameHeight="503"/>
+</TextureAtlas>

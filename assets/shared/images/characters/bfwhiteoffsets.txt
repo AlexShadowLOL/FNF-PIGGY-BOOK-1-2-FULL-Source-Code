@@ -1,9 +1,9 @@
 idle 0 0
-singUP 62 12
-singRIGHT 62 -11
-singLEFT 113 3
-singDOWN 79 -15
-singUPmiss 62 12
-singRIGHTmiss 65 -10
-singLEFTmiss 115 0
-singDOWNmiss 80 -14
+singUP 39 23
+singRIGHT 24 -10
+singLEFT -4 -4
+singDOWN 52 -81
+singUPmiss 39 10
+singRIGHTmiss 15 -8
+singLEFTmiss -3 -5
+singDOWNmiss 40 -81

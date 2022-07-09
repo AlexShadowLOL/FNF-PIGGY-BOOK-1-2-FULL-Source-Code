@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Felix_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Felix Down0000" x="1480" y="709" width="376" height="633" frameX="-11" frameY="-8" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0001" x="1480" y="709" width="376" height="633" frameX="-11" frameY="-8" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0002" x="1480" y="1342" width="375" height="634" frameX="-7" frameY="-6" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0003" x="1480" y="1342" width="375" height="634" frameX="-7" frameY="-6" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0004" x="770" y="713" width="372" height="638" frameX="-2" frameY="-1" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0005" x="770" y="713" width="372" height="638" frameX="-2" frameY="-1" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0006" x="770" y="1351" width="372" height="638" frameX="0" frameY="0" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0007" x="770" y="1351" width="372" height="638" frameX="0" frameY="0" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0008" x="770" y="1351" width="372" height="638" frameX="0" frameY="0" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0009" x="770" y="1351" width="372" height="638" frameX="0" frameY="0" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0010" x="770" y="1351" width="372" height="638" frameX="0" frameY="0" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Down0011" x="770" y="1351" width="372" height="638" frameX="0" frameY="0" frameWidth="387" frameHeight="641"/>
+	<SubTexture name="Felix Idle0000" x="0" y="2035" width="291" height="690" frameX="0" frameY="-13" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0001" x="0" y="2035" width="291" height="690" frameX="0" frameY="-13" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0002" x="1477" y="1976" width="274" height="694" frameX="-2" frameY="-9" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0003" x="1477" y="1976" width="274" height="694" frameX="-2" frameY="-9" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0004" x="1751" y="1976" width="261" height="701" frameX="-5" frameY="-2" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0005" x="1751" y="1976" width="261" height="701" frameX="-5" frameY="-2" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0006" x="990" y="2093" width="258" height="703" frameX="-5" frameY="0" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0007" x="990" y="2093" width="258" height="703" frameX="-5" frameY="0" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0008" x="990" y="2093" width="258" height="703" frameX="-5" frameY="0" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0009" x="990" y="2093" width="258" height="703" frameX="-5" frameY="0" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0010" x="990" y="2093" width="258" height="703" frameX="-5" frameY="0" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Idle0011" x="990" y="2093" width="258" height="703" frameX="-5" frameY="0" frameWidth="291" frameHeight="703"/>
+	<SubTexture name="Felix Left0000" x="348" y="1356" width="325" height="645"/>
+	<SubTexture name="Felix Left0001" x="348" y="1356" width="325" height="645"/>
+	<SubTexture name="Felix Left0002" x="0" y="1391" width="322" height="644" frameX="0" frameY="-1" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0003" x="0" y="1391" width="322" height="644" frameX="0" frameY="-1" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0004" x="673" y="1989" width="317" height="643" frameX="-1" frameY="-2" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0005" x="673" y="1989" width="317" height="643" frameX="-1" frameY="-2" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0006" x="322" y="2001" width="315" height="642" frameX="-2" frameY="-3" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0007" x="322" y="2001" width="315" height="642" frameX="-2" frameY="-3" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0008" x="322" y="2001" width="315" height="642" frameX="-2" frameY="-3" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0009" x="322" y="2001" width="315" height="642" frameX="-2" frameY="-3" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0010" x="322" y="2001" width="315" height="642" frameX="-2" frameY="-3" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Left0011" x="322" y="2001" width="315" height="642" frameX="-2" frameY="-3" frameWidth="325" frameHeight="645"/>
+	<SubTexture name="Felix Right0000" x="0" y="0" width="402" height="679"/>
+	<SubTexture name="Felix Right0001" x="0" y="0" width="402" height="679"/>
+	<SubTexture name="Felix Right0002" x="402" y="0" width="388" height="678" frameX="-5" frameY="-1" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0003" x="402" y="0" width="388" height="678" frameX="-5" frameY="-1" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0004" x="402" y="678" width="368" height="678" frameX="-12" frameY="-1" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0005" x="402" y="678" width="368" height="678" frameX="-12" frameY="-1" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0006" x="1143" y="0" width="361" height="679" frameX="-14" frameY="0" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0007" x="1143" y="0" width="361" height="679" frameX="-14" frameY="0" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0008" x="1143" y="0" width="361" height="679" frameX="-14" frameY="0" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0009" x="1143" y="0" width="361" height="679" frameX="-14" frameY="0" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0010" x="1143" y="0" width="361" height="679" frameX="-14" frameY="0" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Right0011" x="1143" y="0" width="361" height="679" frameX="-14" frameY="0" frameWidth="402" frameHeight="679"/>
+	<SubTexture name="Felix Up0000" x="790" y="0" width="353" height="713"/>
+	<SubTexture name="Felix Up0001" x="790" y="0" width="353" height="713"/>
+	<SubTexture name="Felix Up0002" x="0" y="679" width="348" height="712" frameX="-3" frameY="-1" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0003" x="0" y="679" width="348" height="712" frameX="-3" frameY="-1" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0004" x="1504" y="0" width="342" height="709" frameX="-6" frameY="-4" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0005" x="1504" y="0" width="342" height="709" frameX="-6" frameY="-4" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0006" x="1143" y="679" width="337" height="707" frameX="-8" frameY="-6" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0007" x="1143" y="679" width="337" height="707" frameX="-8" frameY="-6" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0008" x="1142" y="1386" width="335" height="707" frameX="-9" frameY="-6" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0009" x="1142" y="1386" width="335" height="707" frameX="-9" frameY="-6" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0010" x="1142" y="1386" width="335" height="707" frameX="-9" frameY="-6" frameWidth="353" frameHeight="713"/>
+	<SubTexture name="Felix Up0011" x="1142" y="1386" width="335" height="707" frameX="-9" frameY="-6" frameWidth="353" frameHeight="713"/>
+</TextureAtlas>

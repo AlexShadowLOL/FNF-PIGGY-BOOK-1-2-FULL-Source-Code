@@ -3,10 +3,11 @@
 	<!-- Created with Adobe Animate version 18.0.0.107 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="alex0000" x="0" y="0" width="131" height="120"/>
-	<SubTexture name="darkmoon0000" x="121" y="244" width="109" height="112"/>
-	<SubTexture name="minitoon0000" x="0" y="244" width="121" height="116"/>
-	<SubTexture name="neen0000" x="0" y="120" width="122" height="124"/>
-	<SubTexture name="none0000" x="131" y="0" width="69" height="118"/>
+	<SubTexture name="darkmoon0000" x="131" y="0" width="109" height="112"/>
+	<SubTexture name="gorwor0000" x="0" y="120" width="135" height="105"/>
+	<SubTexture name="minitoon0000" x="135" y="120" width="121" height="116"/>
+	<SubTexture name="neen0000" x="0" y="236" width="122" height="124"/>
+	<SubTexture name="none0000" x="122" y="236" width="69" height="118"/>
 	<SubTexture name="toby0000" x="0" y="360" width="124" height="108"/>
-	<SubTexture name="zhugo0000" x="122" y="120" width="92" height="113"/>
+	<SubTexture name="zhugo0000" x="124" y="360" width="92" height="113"/>
 </TextureAtlas>

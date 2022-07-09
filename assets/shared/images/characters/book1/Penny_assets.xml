@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Penny_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Penny Down0000" x="0" y="0" width="240" height="378" frameX="0" frameY="-30" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0001" x="240" y="0" width="237" height="388" frameX="-1" frameY="-20" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0002" x="477" y="0" width="234" height="403" frameX="-1" frameY="-5" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0003" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0004" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0005" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0006" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0007" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0008" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0009" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0010" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Down0011" x="711" y="0" width="234" height="408" frameX="0" frameY="0" frameWidth="240" frameHeight="408"/>
+	<SubTexture name="Penny Idle0000" x="945" y="0" width="294" height="640" frameX="0" frameY="-8" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0001" x="1239" y="0" width="281" height="642" frameX="-4" frameY="-6" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0002" x="1520" y="0" width="261" height="647" frameX="-10" frameY="-1" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0003" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0004" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0005" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0006" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0007" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0008" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0009" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0010" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Idle0011" x="1781" y="0" width="253" height="648" frameX="-13" frameY="0" frameWidth="294" frameHeight="648"/>
+	<SubTexture name="Penny Left0000" x="0" y="648" width="230" height="434" frameX="0" frameY="-9" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0001" x="230" y="648" width="227" height="437" frameX="-3" frameY="-6" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0002" x="457" y="648" width="222" height="441" frameX="-8" frameY="-2" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0003" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0004" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0005" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0006" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0007" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0008" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0009" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0010" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Left0011" x="679" y="648" width="221" height="443" frameX="-9" frameY="0" frameWidth="230" frameHeight="443"/>
+	<SubTexture name="Penny Right0000" x="900" y="648" width="392" height="433" frameX="0" frameY="-13" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0001" x="1292" y="648" width="389" height="437" frameX="0" frameY="-9" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0002" x="0" y="1091" width="385" height="444" frameX="0" frameY="-2" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0003" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0004" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0005" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0006" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0007" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0008" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0009" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0010" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Right0011" x="385" y="1091" width="384" height="446" frameX="0" frameY="0" frameWidth="392" frameHeight="446"/>
+	<SubTexture name="Penny Up0000" x="769" y="1091" width="233" height="715"/>
+	<SubTexture name="Penny Up0001" x="1002" y="1091" width="233" height="711" frameX="0" frameY="-4" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0002" x="1235" y="1091" width="233" height="705" frameX="0" frameY="-10" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0003" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0004" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0005" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0006" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0007" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0008" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0009" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0010" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+	<SubTexture name="Penny Up0011" x="1468" y="1091" width="233" height="703" frameX="0" frameY="-12" frameWidth="233" frameHeight="715"/>
+</TextureAtlas>

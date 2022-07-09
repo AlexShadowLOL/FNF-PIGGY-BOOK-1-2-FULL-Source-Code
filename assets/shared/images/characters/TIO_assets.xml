@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TIO_assets.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tio Down0000" x="1488" y="793" width="417" height="556" frameX="0" frameY="-30" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0001" x="1488" y="793" width="417" height="556" frameX="0" frameY="-30" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0002" x="1592" y="0" width="404" height="567" frameX="-11" frameY="-19" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0003" x="1592" y="0" width="404" height="567" frameX="-11" frameY="-19" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0004" x="1316" y="1608" width="405" height="581" frameX="-28" frameY="-5" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0005" x="1316" y="1608" width="405" height="581" frameX="-28" frameY="-5" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0006" x="1312" y="2435" width="406" height="586" frameX="-33" frameY="0" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0007" x="1312" y="2435" width="406" height="586" frameX="-33" frameY="0" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0008" x="1312" y="2435" width="406" height="586" frameX="-33" frameY="0" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0009" x="1312" y="2435" width="406" height="586" frameX="-33" frameY="0" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0010" x="1312" y="2435" width="406" height="586" frameX="-33" frameY="0" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Down0011" x="1312" y="2435" width="406" height="586" frameX="-33" frameY="0" frameWidth="439" frameHeight="586"/>
+	<SubTexture name="Tio Idle0000" x="0" y="3222" width="336" height="810" frameX="0" frameY="-6" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0001" x="0" y="3222" width="336" height="810" frameX="0" frameY="-6" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0002" x="975" y="2435" width="337" height="812" frameX="-3" frameY="-4" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0003" x="975" y="2435" width="337" height="812" frameX="-3" frameY="-4" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0004" x="1148" y="793" width="340" height="815" frameX="-7" frameY="-1" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0005" x="1148" y="793" width="340" height="815" frameX="-7" frameY="-1" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0006" x="975" y="1619" width="341" height="816" frameX="-8" frameY="0" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0007" x="975" y="1619" width="341" height="816" frameX="-8" frameY="0" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0008" x="975" y="1619" width="341" height="816" frameX="-8" frameY="0" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0009" x="975" y="1619" width="341" height="816" frameX="-8" frameY="0" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0010" x="975" y="1619" width="341" height="816" frameX="-8" frameY="0" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Idle0011" x="975" y="1619" width="341" height="816" frameX="-8" frameY="0" frameWidth="349" frameHeight="816"/>
+	<SubTexture name="Tio Left0000" x="576" y="1619" width="398" height="694" frameX="0" frameY="-8" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0001" x="576" y="1619" width="398" height="694" frameX="0" frameY="-8" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0002" x="336" y="3222" width="387" height="697" frameX="-8" frameY="-6" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0003" x="336" y="3222" width="387" height="697" frameX="-8" frameY="-6" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0004" x="723" y="3247" width="372" height="701" frameX="-19" frameY="-2" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0005" x="723" y="3247" width="372" height="701" frameX="-19" frameY="-2" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0006" x="1095" y="3247" width="367" height="702" frameX="-23" frameY="0" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0007" x="1095" y="3247" width="367" height="702" frameX="-23" frameY="0" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0008" x="1095" y="3247" width="367" height="702" frameX="-23" frameY="0" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0009" x="1095" y="3247" width="367" height="702" frameX="-23" frameY="0" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0010" x="1095" y="3247" width="367" height="702" frameX="-23" frameY="0" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Left0011" x="1095" y="3247" width="367" height="702" frameX="-23" frameY="0" frameWidth="398" frameHeight="703"/>
+	<SubTexture name="Tio Right0000" x="577" y="0" width="512" height="792" frameX="0" frameY="-1" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0001" x="577" y="0" width="512" height="792" frameX="0" frameY="-1" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0002" x="1089" y="0" width="503" height="793" frameX="-1" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0003" x="1089" y="0" width="503" height="793" frameX="-1" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0004" x="0" y="2429" width="489" height="793" frameX="-3" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0005" x="0" y="2429" width="489" height="793" frameX="-3" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0006" x="489" y="2429" width="486" height="793" frameX="-2" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0007" x="489" y="2429" width="486" height="793" frameX="-2" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0008" x="489" y="2429" width="486" height="793" frameX="-2" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0009" x="489" y="2429" width="486" height="793" frameX="-2" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0010" x="489" y="2429" width="486" height="793" frameX="-2" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Right0011" x="489" y="2429" width="486" height="793" frameX="-2" frameY="0" frameWidth="512" frameHeight="793"/>
+	<SubTexture name="Tio Up0000" x="0" y="0" width="577" height="808" frameX="0" frameY="-1" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0001" x="0" y="0" width="577" height="808" frameX="0" frameY="-1" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0002" x="0" y="1620" width="576" height="809" frameX="-5" frameY="-1" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0003" x="0" y="1620" width="576" height="809" frameX="-5" frameY="-1" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0004" x="574" y="808" width="574" height="811" frameX="-13" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0005" x="574" y="808" width="574" height="811" frameX="-13" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0006" x="0" y="808" width="574" height="812" frameX="-15" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0007" x="0" y="808" width="574" height="812" frameX="-15" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0008" x="0" y="808" width="574" height="812" frameX="-15" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0009" x="0" y="808" width="574" height="812" frameX="-15" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0010" x="0" y="808" width="574" height="812" frameX="-15" frameY="0" frameWidth="589" frameHeight="812"/>
+	<SubTexture name="Tio Up0011" x="0" y="808" width="574" height="812" frameX="-15" frameY="0" frameWidth="589" frameHeight="812"/>
+</TextureAtlas>
